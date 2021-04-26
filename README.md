@@ -3,7 +3,7 @@
 # dim_red
 
 
-Repository of notebooks used to complete assignment 3.  The code covers analysis that was desired for assignment 2 but its not very cohesive, but all code required for a particular model is found within the notebook with the models name. 
+Repository of notebooks used to complete assignment 4.  The code covers analysis that was desired for assignment 4 but its not very cohesive, but all code required for a particular model is found within the notebook with the models name. 
 
 ## Usage
 Assuming python 3.9 and conda are installed create the env using.
