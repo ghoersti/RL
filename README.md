@@ -9,6 +9,8 @@ Repository of notebooks used to complete assignment 4.  The code covers analysis
 Assuming python 3.9 and conda are installed create the env using.
 `conda env create -f RL37.yml`
 
+in the sea of images there is 1 notebook for both the forest and frozen lake MDP , titled obviously.
+
 
 Open jupyter
 `jupyter notebook` execute code as needed
