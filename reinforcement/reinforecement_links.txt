@@ -1,0 +1,40 @@
+#simple RL link
+https://david-abel.github.io/papers/simple_rl.pdf
+
+#mcts 
+https://dke.maastrichtuniversity.nl/m.winands/documents/paper%2049.pdf
+
+
+#value  policy iteration examples 
+https://github.com/dalmia/David-Silver-Reinforcement-learning/blob/master/Week%203%20-%20Planning%20by%20Dynamic%20Programming/dp.py
+
+
+#policy iteration
+https://github.com/cuhkrlcourse/RLexample/blob/master/MDP/frozenlake_policy_iteration.py
+
+
+
+
+https://github.com/cuhkrlcourse/RLexample/blob/master/MDP/frozenlake_value_iteration.py
+
+#q
+https://github.com/simoninithomas/Deep_reinforcement_learning_Course/blob/master/Q%20learning/FrozenLake/Q%20Learning%20with%20FrozenLake.ipynb
+
+# lake score
+https://medium.com/analytics-vidhya/solving-the-frozenlake-environment-from-openai-gym-using-value-iteration-5a078dffe438
+
+
+link to plots 
+https://piazza.com/class/kjwtraqiv511du?cid=755_f16
+
+
+#maybe video for transitions 
+
+https://cwong8.github.io/projects/FrozenLake/
+
+#larger frozen lake
+https://reinforcement-learning4.fun/2019/06/24/create-frozen-lake-random-maps/
+
+
+# vis doc 
+https://docs.google.com/document/d/1jZBxBBge5iUV9IrSZX4Y5FSLW6NtChYP0YEN2Qf72-I/edit
