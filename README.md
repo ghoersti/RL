@@ -7,16 +7,12 @@ Repository of notebooks used to complete assignment 4.  The code covers analysis
 
 ## Usage
 Assuming python 3.9 and conda are installed create the env using.
-`conda env create -f ML.yml`
-
-## aditionally
-`pip install mlrose-hiive`
+`conda env create -f RL37.yml`
 
 
 Open jupyter
 `jupyter notebook` execute code as needed
 
-https://www.overleaf.com/project/6069396dc2db80068f23e621
 
 # data
 Contained in root directory.
@@ -24,8 +20,7 @@ Contained in root directory.
 # Note
 The parent directory path inside the notebooks will need to be changed to reflect absolute path to the `data` directory
 
-# images
-ALL of the images created are in the images folder, ewwwww :( 
+
 # Code used to aid in discovery
 
 https://scikit-learn.org/stable/modules/clustering.html#k-means
